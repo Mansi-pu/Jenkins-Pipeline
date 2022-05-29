@@ -4,6 +4,7 @@ pipeline {
                  stage('One') {
                  steps {
                      echo 'Hi, welcome to pipeline demo...'
+                          <Demo on github> 
                  }
                  }
                  stage('Two') {
