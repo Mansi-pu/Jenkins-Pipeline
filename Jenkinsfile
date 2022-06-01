@@ -6,6 +6,7 @@ pipeline {
                      echo 'Hi, welcome to pipeline demo...'
                           <...this is demo....>
                                    <fgjmnhn>
+                                   <bhdbjdbjd>
                  
                  }
                  }
