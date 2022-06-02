@@ -13,6 +13,7 @@ pipeline {
                  stage('Two') {
                  steps {
                     echo('Sample testing of Stage 2')
+                          <Demo on Github Webhook>
                  }
                  }
                  stage('Three') {
