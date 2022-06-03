@@ -4,7 +4,7 @@ pipeline {
                  stage('One') {
                  steps {
                      echo 'Hi, welcome to pipeline demo...'
-                      <This is Demo Session>
+                      <....This is Demo Session....>
                  
                  }
                  }
